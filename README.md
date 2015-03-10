@@ -1,13 +1,15 @@
 # intro-django
 
+## Teaching repo
+- https://github.com/xie1989/intro-django
+
 ## Setup
-Python: https://www.python.org/downloads/
-Sublime Text 3: http://www.sublimetext.com/3
-pip: https://pip.pypa.io/en/latest/installing.html
-virtualenvwrapper: https://virtualenvwrapper.readthedocs.org/en/latest/
+- Python: https://www.python.org/downloads/
+- Sublime Text 3: http://www.sublimetext.com/3
+- pip: https://pip.pypa.io/en/latest/installing.html
+- virtualenvwrapper: https://virtualenvwrapper.readthedocs.org/en/latest/
 
-
-## Rough outline
+## Roadmap
 - Start Django Project
 - Change settings
 - Setup database
