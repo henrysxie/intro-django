@@ -9,6 +9,9 @@
 - pip: https://pip.pypa.io/en/latest/installing.html
 - virtualenvwrapper: https://virtualenvwrapper.readthedocs.org/en/latest/
 
+## CSS
+https://gist.github.com/xie1989/2012911763f88ae88e7c
+
 ## Roadmap
 - Start Django Project
 - Change settings
